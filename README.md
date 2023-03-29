@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi， I'm Haixin 👋
 
 <!--
 **1Haixin/1Haixin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
